@@ -1,2 +1,2 @@
-# xmas_tree
+# Christmas Tree Animation
 
